@@ -7,5 +7,6 @@ This is a simple nodeJS express server that prints out `Hello world!`
 **Note**: You need to have `node` installed in order to run this.
 
 - CD into this folder (`node`)
+- Run `npm install` to install the dependencies
 - `node index.js` to run the webserver
 - Visit `localhost:3000` to see the server.
