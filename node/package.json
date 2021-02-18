@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A simple webserver example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunrit Jana",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
